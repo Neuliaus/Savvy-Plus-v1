@@ -1,4 +1,4 @@
-# Cymplar 2
+# Savvy-Plus-V1
 
 This project is built according to the [MEAN](https://en.wikipedia.org/wiki/MEAN_\(software_bundle\)) full-stack.
 
